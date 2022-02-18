@@ -4,7 +4,7 @@
 1. WampServer
 2. PgAdmin
 
-#### Enable PDO in Php.ini file
+#### 1. Enable PDO in Php.ini file
 
 Remove semicolon (;) from these two lines from Php.ini files. You have to remove from PHP folder and also from Apache folder. 
 
@@ -18,3 +18,6 @@ extension=pgsql
 
 ![This is an image](/pdo_extension.PNG)
 
+#### 2. Enable Pgsql in WampServer
+
+![This is an image](/pgsql.png)
