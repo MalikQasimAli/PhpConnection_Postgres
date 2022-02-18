@@ -9,3 +9,4 @@
 Remove semicolon (;) from these two lines from Php.ini files. You have to remove from PHP folder and also from Apache folder. 
 
 ![This is an image](/phpini.PNG)
+![This is an image](/pdo_extension.PNG)
